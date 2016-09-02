@@ -17,5 +17,5 @@ while true; do
     # Setting wallpaper
     feh --bg-scale wallpaperRandomUnsplash.jpg
 
-    sleep 0 
+    sleep 600 
 done
