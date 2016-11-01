@@ -9,7 +9,7 @@
 
 #Linux/BSD
 
-* There is a dependency required for Linux/BSD adn that is `feh` . Use your package manager of choice to download it.
+* There is a dependency required for Linux/BSD and that is `feh` . Use your package manager of choice to download it.
 
 * To get the script running you need to `git clone https://github.com/tymscar/Unsplash-Random-Wallpaper-Setter` as in the mac version, `cd` into the folder and `chmod +x linux.sh`. This will make the script executable. To run the script in the background use the `./linux.sh & disown` command.
 
